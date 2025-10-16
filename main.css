@@ -1,0 +1,8 @@
+.main{
+    display:flex;
+   flex-direction: row
+   ;
+    background-color: #d75e5e;
+    height: 500px;
+    width: 80%;
+}

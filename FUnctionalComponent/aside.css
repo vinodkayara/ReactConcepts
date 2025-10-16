@@ -1,0 +1,11 @@
+.as{
+    display: flex;
+    flex-direction: left;
+    background-color: aqua;
+    height: 500px;
+    width: 20%;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+}

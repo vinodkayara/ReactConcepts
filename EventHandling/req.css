@@ -1,0 +1,14 @@
+.main{
+    align-items:center ;
+    height: 500px;
+    width: 500px;
+    display: flex;
+   justify-content: center;
+   border: 1px solid black;
+}
+.one{
+  height: 100px;
+  width: 200px;
+  border: 1px solid black;
+  
+}

@@ -1,0 +1,12 @@
+.fun4 {
+  background-color: #555;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  border-radius: 6px;
+  padding: 15px;
+}
+.fun4-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}

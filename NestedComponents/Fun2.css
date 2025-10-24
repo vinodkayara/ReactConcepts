@@ -1,0 +1,16 @@
+.fun2 {
+  background-color: #91f591;
+  flex: 1;
+  margin: 10px;
+  border-radius: 6px;
+  text-align: center;
+  padding: 10px;
+}
+.fun2-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.fun2-children {
+  display: flex;
+  justify-content: space-around;
+}

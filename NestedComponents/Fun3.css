@@ -1,0 +1,18 @@
+.fun3 {
+  background-color: #d2a9a9;
+  flex: 1;
+  margin: 10px;
+  border-radius: 6px;
+  text-align: center;
+  padding: 10px;
+}
+
+.fun3-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.fun3-row {
+  display: flex;
+  justify-content: space-around;
+}

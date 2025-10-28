@@ -14,6 +14,7 @@ function Parent() {
       <p>I am {age} years old</p>
       <Child name={name} age={age} condition={false}/>
         <Child name="Riya" age={30} condition={true}/>
+        <Child />
     </div>
   )
 }
